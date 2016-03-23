@@ -1,0 +1,15 @@
+Para aprender o git/Github ( Linha de comando)
+
+Usar git bash 
+
+comando git init - inicializar o git ou renicializar repositório existente
+git status - verificar o status se existe algum arquivo para ser comitado.
+git commit - m < nome do arquivo> comando que dar commit com comentario.
+git add <nome do arquivo> - Adicionar o arquivo para respositorio.
+git push remote - fazer upload do arquivo ja comitado
+git push remote -v : visualiza os endereços para efetuar o push
+git remote add remoto [URl]: faz link com o git hub
+git push remoto origin - passa os arquivos comitados para o git hub
+
+
+

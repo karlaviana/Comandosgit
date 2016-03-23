@@ -10,6 +10,6 @@ git push remote - fazer upload do arquivo ja comitado
 git push remote -v : visualiza os endereços para efetuar o push
 git remote add remoto [URl]: faz link com o git hub
 git push remoto origin - passa os arquivos comitados para o git hub
-
+git add . : adiciona todos arquivos 
 
 
